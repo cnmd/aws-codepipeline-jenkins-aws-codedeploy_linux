@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<project name="DTSAdapter" default="init">
+<target name="init" depends="clean">
+		<!-- 创建存放构建的目录 -->
+		<mkdir dir="/tmp/hj/dir" />
+	</target>
+</project>

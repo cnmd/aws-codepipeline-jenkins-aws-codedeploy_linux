@@ -1,3 +1,4 @@
 #!/bin/bash
+mv /var/www/html/index.html /var/www/html/index.html_bak
 yum install -y httpd
 
